@@ -1,0 +1,2 @@
+##ambos estaram na mesma distância pois independente da velocidade que o caminhão ou o carro se mova a medida que o caminhão se 
+## ditância de franca e a e medida que o carro se distancia de riberão preto, portanto ambos estarão a mesma dintância de riberão
